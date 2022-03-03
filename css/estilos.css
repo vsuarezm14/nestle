@@ -1,0 +1,73 @@
+.container{
+    height: 1000px;
+    width: 100%;
+    background-color: blue;
+}
+*{
+	box-sizing: border-box;/*permite el acoplar cajas con bordes*/
+}
+#panel1{
+	height: 200px;/*altura*/
+	width: 100%;/*ancho*/
+	background-color: pink;/*color de fondo*/
+	color:#fff;/*color de letra*/
+	font-family: sans-serif;/*fuente*/
+	font-weight: bold;/*negrita*/
+	text-align: center;/*alineación de texto*/
+	padding-top: 100px;/*espacio entre texto y caja*/
+    font-size: 30px;/* tamaço de fuente */
+    border: 1px solid #aaa;
+    float:left;
+}
+#panel2{
+	height: 400px;/*altura*/
+	width: 20%;/*ancho*/
+	background-color: pink;/*color de fondo*/
+	color:#fff;/*color de letra*/
+	font-family: sans-serif;/*fuente*/
+	font-weight: bold;/*negrita*/
+	text-align: center;/*alineación de texto*/
+	padding-top: 100px;/*espacio entre texto y caja*/
+    font-size: 30px;/* tamaço de fuente */
+    border: 1px solid #aaa;
+    float:left;
+}
+#panel3{
+	height: 400px;/*altura*/
+	width: 80%;/*ancho*/
+	background-color: pink;/*color de fondo*/
+	color:#fff;/*color de letra*/
+	font-family: sans-serif;/*fuente*/
+	font-weight: bold;/*negrita*/
+	text-align: center;/*alineación de texto*/
+	padding-top: 30px;/*espacio entre texto y caja*/
+    font-size: 30px;/* tamaço de fuente */
+    border: 1px solid #aaa;
+    float:left;
+}
+#panel4{
+	height: 200px;/*altura*/
+	width: 50%;/*ancho*/
+	background-color: pink;/*color de fondo*/
+	color:#fff;/*color de letra*/
+	font-family: sans-serif;/*fuente*/
+	font-weight: bold;/*negrita*/
+	text-align: center;/*alineación de texto*/
+	padding-top: 100px;/*espacio entre texto y caja*/
+    font-size: 30px;/* tamaço de fuente */
+    border: 1px solid #aaa;
+    float:left;
+}
+#panel5{
+	height: 200px;/*altura*/
+	width: 50%;/*ancho*/
+	background-color: pink;/*color de fondo*/
+	color:#fff;/*color de letra*/
+	font-family: sans-serif;/*fuente*/
+	font-weight: bold;/*negrita*/
+	text-align: center;/*alineación de texto*/
+	padding-top: 100px;/*espacio entre texto y caja*/
+    font-size: 30px;/* tamaço de fuente */
+    border: 1px solid #aaa;
+    float:left;
+}
